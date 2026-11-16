@@ -33,4 +33,3 @@ The project is structured into three main parts:
 - NumPy
 - Scikit-learn
 - Matplotlib
--
